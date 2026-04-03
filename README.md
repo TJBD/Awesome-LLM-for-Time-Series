@@ -53,6 +53,7 @@ This repository focuses on how numerical time series are adapted to pretrained l
 
 | Year | Title | Venue | Paper | Code |
 |------|-------|-------|-------|------|
+| 2026 | TF-LLM: Enhanced time series analysis with time-frequency large language models | Neural Networks | [Paper](https://doi.org/10.1016/j.neunet.2026.108687) | - |
 
 ### Anomaly Detection
 
